@@ -1,5 +1,5 @@
 ﻿User-agent: *
-Sitemap: https://mebel-kaluga-midako.itsinsta.site/sitemap.xml
+Sitemap: https://midako.ru/sitemap.xml
 Disallow: /main.html
 Disallow: /main
 Disallow: /stories.html
